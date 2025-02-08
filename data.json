@@ -1,0 +1,49 @@
+{
+    "postpartumDietPlan": {
+      "nutrientDenseBalancedDiet": {
+        "vegetarian": {
+          "morning": ["Banana and almond smoothie with flaxseeds", "Multigrain toast with peanut butter"],
+          "morningBenefits": ["Rich in healthy fats and omega-3 for hormone regulation."],
+          "snack": ["Handful of roasted nuts (almonds, walnuts)"],
+          "snackBenefits": ["Healthy fats and calcium."],
+          "lunch": ["Brown rice with spinach paneer curry and lentils", "Cucumber and carrot salad"],
+          "lunchBenefits": ["High in iron, calcium, and complex carbs."],
+          "eveningSnack": ["Greek yogurt with chia seeds and berries"],
+          "eveningSnackBenefits": ["Calcium and probiotics for gut health."],
+          "dinner": ["Dal khichdi with ghee and steamed vegetables"],
+          "dinnerBenefits": ["Protein and essential fats."],
+          "bedtimeSnack": ["Warm glass of turmeric milk"],
+          "bedtimeSnackBenefits": ["Anti-inflammatory and calcium-rich."]
+        },
+        "nonVegetarian": {
+          "morning": ["Spinach and mushroom omelet with whole-grain toast", "Glass of whole milk"],
+          "morningBenefits": ["High protein and iron."],
+          "snack": ["Boiled eggs (2) and a handful of walnuts"],
+          "snackBenefits": ["Protein and healthy fats."],
+          "lunch": ["Grilled chicken breast with quinoa and steamed vegetables", "Spinach dal"],
+          "lunchBenefits": ["Protein, iron, and folate."],
+          "eveningSnack": ["Yogurt with flaxseeds"],
+          "eveningSnackBenefits": ["Calcium and healthy fats."],
+          "dinner": ["Baked fish with vegetable stir-fry and brown rice"],
+          "dinnerBenefits": ["Omega-3s and fiber."],
+          "bedtimeSnack": ["Warm milk with a handful of nuts"],
+          "bedtimeSnackBenefits": ["Supports sleep and milk production."]
+        },
+        "vegan": {
+          "morning": ["Smoothie bowl with almond milk, bananas, and nut butter"],
+          "morningBenefits": ["Plant-based protein and healthy fats."],
+          "snack": ["Roasted chickpeas and coconut yogurt"],
+          "snackBenefits": ["Protein and probiotics."],
+          "lunch": ["Vegetable curry with tofu and brown rice", "Flaxseed salad"],
+          "lunchBenefits": ["Plant-based omega-3 and fiber."],
+          "eveningSnack": ["Handful of almonds and pumpkin seeds"],
+          "eveningSnackBenefits": ["Magnesium and fats."],
+          "dinner": ["Lentil soup with quinoa and steamed vegetables"],
+          "dinnerBenefits": ["Complete plant-based protein."],
+          "bedtimeSnack": ["Warm almond milk with turmeric"],
+          "bedtimeSnackBenefits": ["Anti-inflammatory and calcium-rich."]
+        }
+      }
+    }
+  }
+  
